@@ -1,0 +1,2780 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 1
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  551
+     Surface Area:         821.1580321359
+     Dielectric Energy:     -0.0078860223
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:    -3189.6104982067
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 1
+   prop. index: 1
+        Van der Waals Correction:       -0.0080891936
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 2
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  600
+     Surface Area:         833.5171507551
+     Dielectric Energy:     -0.0088173126
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:    -3189.9380171822
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 2
+   prop. index: 1
+        Van der Waals Correction:       -0.0081218869
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 3
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  594
+     Surface Area:         843.9926999062
+     Dielectric Energy:     -0.0096732359
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:    -3190.1988242181
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 3
+   prop. index: 1
+        Van der Waals Correction:       -0.0081069441
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 4
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  636
+     Surface Area:         854.2988053248
+     Dielectric Energy:     -0.0097497839
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:    -3190.4041507736
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 4
+   prop. index: 1
+        Van der Waals Correction:       -0.0081083485
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 5
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 5
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  704
+     Surface Area:         864.5651761099
+     Dielectric Energy:     -0.0098467519
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:    -3190.5652888627
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 5
+   prop. index: 1
+        Van der Waals Correction:       -0.0081024708
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 6
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 6
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  701
+     Surface Area:         878.2068993090
+     Dielectric Energy:     -0.0100092467
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:    -3190.6931205803
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 6
+   prop. index: 1
+        Van der Waals Correction:       -0.0080927116
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 7
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 7
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  727
+     Surface Area:         889.6560618981
+     Dielectric Energy:     -0.0102128288
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 7
+   prop. index: 1
+        SCF Energy:    -3190.7958318488
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 7
+   prop. index: 1
+        Van der Waals Correction:       -0.0080756924
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 8
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 8
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  754
+     Surface Area:         901.3812786243
+     Dielectric Energy:     -0.0104141267
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 8
+   prop. index: 1
+        SCF Energy:    -3190.8795799960
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 8
+   prop. index: 1
+        Van der Waals Correction:       -0.0080500421
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 9
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 9
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  764
+     Surface Area:         912.8913022997
+     Dielectric Energy:     -0.0110284325
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 9
+   prop. index: 1
+        SCF Energy:    -3190.9492360908
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 9
+   prop. index: 1
+        Van der Waals Correction:       -0.0080122944
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 10
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 10
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  805
+     Surface Area:         925.6329398528
+     Dielectric Energy:     -0.0113666114
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 10
+   prop. index: 1
+        SCF Energy:    -3191.0075284781
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 10
+   prop. index: 1
+        Van der Waals Correction:       -0.0079625373
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 11
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 11
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  857
+     Surface Area:         936.8868069187
+     Dielectric Energy:     -0.0116076250
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 11
+   prop. index: 1
+        SCF Energy:    -3191.0571193189
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 11
+   prop. index: 1
+        Van der Waals Correction:       -0.0078979347
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 12
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 12
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  921
+     Surface Area:         947.5575605200
+     Dielectric Energy:     -0.0118208572
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 12
+   prop. index: 1
+        SCF Energy:    -3191.1000928485
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 12
+   prop. index: 1
+        Van der Waals Correction:       -0.0078189685
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 13
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 13
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  964
+     Surface Area:         957.8904014875
+     Dielectric Energy:     -0.0119882557
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 13
+   prop. index: 1
+        SCF Energy:    -3191.1379584771
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 13
+   prop. index: 1
+        Van der Waals Correction:       -0.0077290464
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 14
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 14
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  982
+     Surface Area:         969.9734632893
+     Dielectric Energy:     -0.0121616431
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 14
+   prop. index: 1
+        SCF Energy:    -3191.1719120865
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 14
+   prop. index: 1
+        Van der Waals Correction:       -0.0076295861
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 15
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 15
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1101
+     Surface Area:         979.2663043395
+     Dielectric Energy:     -0.0122715851
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 15
+   prop. index: 1
+        SCF Energy:    -3191.2026117956
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 15
+   prop. index: 1
+        Van der Waals Correction:       -0.0075234715
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 16
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 16
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1103
+     Surface Area:         991.2509095885
+     Dielectric Energy:     -0.0124017146
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 16
+   prop. index: 1
+        SCF Energy:    -3191.2305081315
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 16
+   prop. index: 1
+        Van der Waals Correction:       -0.0074180151
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 17
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 17
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1260
+     Surface Area:        1001.4925712720
+     Dielectric Energy:     -0.0125223650
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 17
+   prop. index: 1
+        SCF Energy:    -3191.2559403972
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 17
+   prop. index: 1
+        Van der Waals Correction:       -0.0073188731
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 18
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 18
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1293
+     Surface Area:        1012.5647142219
+     Dielectric Energy:     -0.0123955874
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 18
+   prop. index: 1
+        SCF Energy:    -3191.2790029698
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 18
+   prop. index: 1
+        Van der Waals Correction:       -0.0072315389
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 19
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 19
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1414
+     Surface Area:        1024.6468272295
+     Dielectric Energy:     -0.0124929970
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 19
+   prop. index: 1
+        SCF Energy:    -3191.3002421836
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 19
+   prop. index: 1
+        Van der Waals Correction:       -0.0071625233
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 20
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 20
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1521
+     Surface Area:        1036.2343157986
+     Dielectric Energy:     -0.0124396218
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 20
+   prop. index: 1
+        SCF Energy:    -3191.3194584427
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 20
+   prop. index: 1
+        Van der Waals Correction:       -0.0071131485
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 21
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 21
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1567
+     Surface Area:        1047.5588272140
+     Dielectric Energy:     -0.0123943738
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 21
+   prop. index: 1
+        SCF Energy:    -3191.3368813403
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 21
+   prop. index: 1
+        Van der Waals Correction:       -0.0070840945
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 22
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 22
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1533
+     Surface Area:        1060.5332486275
+     Dielectric Energy:     -0.0125304131
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 22
+   prop. index: 1
+        SCF Energy:    -3191.3527928493
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 22
+   prop. index: 1
+        Van der Waals Correction:       -0.0070741339
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 23
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 23
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1433
+     Surface Area:        1069.5059764336
+     Dielectric Energy:     -0.0126090746
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 23
+   prop. index: 1
+        SCF Energy:    -3191.3671806673
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 23
+   prop. index: 1
+        Van der Waals Correction:       -0.0070754324
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 24
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 24
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1384
+     Surface Area:        1083.0390923010
+     Dielectric Energy:     -0.0129734196
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 24
+   prop. index: 1
+        SCF Energy:    -3191.3804522546
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 24
+   prop. index: 1
+        Van der Waals Correction:       -0.0070827274
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 25
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 25
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1286
+     Surface Area:        1093.2435544216
+     Dielectric Energy:     -0.0129336840
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 25
+   prop. index: 1
+        SCF Energy:    -3191.3921730812
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 25
+   prop. index: 1
+        Van der Waals Correction:       -0.0070921191
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 26
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 26
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1144
+     Surface Area:        1102.8562747126
+     Dielectric Energy:     -0.0129949257
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 26
+   prop. index: 1
+        SCF Energy:    -3191.4028475625
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 26
+   prop. index: 1
+        Van der Waals Correction:       -0.0071012294
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 27
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 27
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1025
+     Surface Area:        1114.6835344904
+     Dielectric Energy:     -0.0131349065
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 27
+   prop. index: 1
+        SCF Energy:    -3191.4125216057
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 27
+   prop. index: 1
+        Van der Waals Correction:       -0.0071086065
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 28
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 28
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1019
+     Surface Area:        1126.9647691446
+     Dielectric Energy:     -0.0133833426
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 28
+   prop. index: 1
+        SCF Energy:    -3191.4213041489
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 28
+   prop. index: 1
+        Van der Waals Correction:       -0.0071147104
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 29
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 29
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  950
+     Surface Area:        1137.8180534682
+     Dielectric Energy:     -0.0135216351
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 29
+   prop. index: 1
+        SCF Energy:    -3191.4290510242
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 29
+   prop. index: 1
+        Van der Waals Correction:       -0.0071189574
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 30
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 30
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  974
+     Surface Area:        1146.4852147581
+     Dielectric Energy:     -0.0135024204
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 30
+   prop. index: 1
+        SCF Energy:    -3191.4358546076
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 30
+   prop. index: 1
+        Van der Waals Correction:       -0.0071212189
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 31
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 31
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  983
+     Surface Area:        1156.1410786832
+     Dielectric Energy:     -0.0135371695
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 31
+   prop. index: 1
+        SCF Energy:    -3191.4419416532
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 31
+   prop. index: 1
+        Van der Waals Correction:       -0.0071204599
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 32
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 32
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  976
+     Surface Area:        1165.9309739605
+     Dielectric Energy:     -0.0135528969
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 32
+   prop. index: 1
+        SCF Energy:    -3191.4473234801
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 32
+   prop. index: 1
+        Van der Waals Correction:       -0.0071171581
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 33
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 33
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1039
+     Surface Area:        1173.7211390140
+     Dielectric Energy:     -0.0134967290
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 33
+   prop. index: 1
+        SCF Energy:    -3191.4520590496
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 33
+   prop. index: 1
+        Van der Waals Correction:       -0.0071105157
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 34
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 34
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1061
+     Surface Area:        1182.0077381016
+     Dielectric Energy:     -0.0133999333
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 34
+   prop. index: 1
+        SCF Energy:    -3191.4562016111
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 34
+   prop. index: 1
+        Van der Waals Correction:       -0.0071002233
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 35
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 35
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1025
+     Surface Area:        1190.9599425524
+     Dielectric Energy:     -0.0134108035
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 35
+   prop. index: 1
+        SCF Energy:    -3191.4599789930
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 35
+   prop. index: 1
+        Van der Waals Correction:       -0.0070864690
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 36
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 36
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1063
+     Surface Area:        1197.9851319115
+     Dielectric Energy:     -0.0133627127
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 36
+   prop. index: 1
+        SCF Energy:    -3191.4634089092
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 36
+   prop. index: 1
+        Van der Waals Correction:       -0.0070687795
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 37
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 37
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1057
+     Surface Area:        1207.5743235225
+     Dielectric Energy:     -0.0132851190
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 37
+   prop. index: 1
+        SCF Energy:    -3191.4666418430
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 37
+   prop. index: 1
+        Van der Waals Correction:       -0.0070469568
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 38
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 38
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1065
+     Surface Area:        1217.4813100325
+     Dielectric Energy:     -0.0131307719
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 38
+   prop. index: 1
+        SCF Energy:    -3191.4696509233
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 38
+   prop. index: 1
+        Van der Waals Correction:       -0.0070213747
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 39
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 39
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1076
+     Surface Area:        1228.5421760348
+     Dielectric Energy:     -0.0131269721
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 39
+   prop. index: 1
+        SCF Energy:    -3191.4725174626
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 39
+   prop. index: 1
+        Van der Waals Correction:       -0.0069935797
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 40
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 40
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1195
+     Surface Area:        1233.2919586230
+     Dielectric Energy:     -0.0130989080
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 40
+   prop. index: 1
+        SCF Energy:    -3191.4750157411
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 40
+   prop. index: 1
+        Van der Waals Correction:       -0.0069661382
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 41
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 41
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1214
+     Surface Area:        1243.0361119025
+     Dielectric Energy:     -0.0131545542
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 41
+   prop. index: 1
+        SCF Energy:    -3191.4772469894
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 41
+   prop. index: 1
+        Van der Waals Correction:       -0.0069417315
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 42
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 42
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1226
+     Surface Area:        1252.8649640370
+     Dielectric Energy:     -0.0132072801
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 42
+   prop. index: 1
+        SCF Energy:    -3191.4791899153
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 42
+   prop. index: 1
+        Van der Waals Correction:       -0.0069221586
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 43
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 43
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1263
+     Surface Area:        1262.5154452553
+     Dielectric Energy:     -0.0132309558
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 43
+   prop. index: 1
+        SCF Energy:    -3191.4808890219
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 43
+   prop. index: 1
+        Van der Waals Correction:       -0.0069077174
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 44
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 44
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1263
+     Surface Area:        1271.1943136023
+     Dielectric Energy:     -0.0132966170
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 44
+   prop. index: 1
+        SCF Energy:    -3191.4824084633
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 44
+   prop. index: 1
+        Van der Waals Correction:       -0.0068977913
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 45
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 45
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1280
+     Surface Area:        1280.3963311831
+     Dielectric Energy:     -0.0133341915
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 45
+   prop. index: 1
+        SCF Energy:    -3191.4836954816
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 45
+   prop. index: 1
+        Van der Waals Correction:       -0.0068905563
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 46
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 46
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1287
+     Surface Area:        1290.0560998667
+     Dielectric Energy:     -0.0133735292
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 46
+   prop. index: 1
+        SCF Energy:    -3191.4847845261
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 46
+   prop. index: 1
+        Van der Waals Correction:       -0.0068839166
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 47
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 47
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1310
+     Surface Area:        1299.2723182625
+     Dielectric Energy:     -0.0134197523
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 47
+   prop. index: 1
+        SCF Energy:    -3191.4857064205
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 47
+   prop. index: 1
+        Van der Waals Correction:       -0.0068758510
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 48
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 48
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1360
+     Surface Area:        1309.1392871479
+     Dielectric Energy:     -0.0134518538
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 48
+   prop. index: 1
+        SCF Energy:    -3191.4864616568
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 48
+   prop. index: 1
+        Van der Waals Correction:       -0.0068643114
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 49
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 49
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1370
+     Surface Area:        1318.9699643030
+     Dielectric Energy:     -0.0135116827
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 49
+   prop. index: 1
+        SCF Energy:    -3191.4871180675
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 49
+   prop. index: 1
+        Van der Waals Correction:       -0.0068475659
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 50
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 50
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1362
+     Surface Area:        1327.8786856607
+     Dielectric Energy:     -0.0135763890
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 50
+   prop. index: 1
+        SCF Energy:    -3191.4876691092
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 50
+   prop. index: 1
+        Van der Waals Correction:       -0.0068239909
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 51
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 51
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1359
+     Surface Area:        1338.3649175484
+     Dielectric Energy:     -0.0136201647
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 51
+   prop. index: 1
+        SCF Energy:    -3191.4881416546
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 51
+   prop. index: 1
+        Van der Waals Correction:       -0.0067882822
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 52
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 52
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1398
+     Surface Area:        1347.1420255528
+     Dielectric Energy:     -0.0136460176
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 52
+   prop. index: 1
+        SCF Energy:    -3191.4885289988
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 52
+   prop. index: 1
+        Van der Waals Correction:       -0.0067402198
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 53
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 53
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1409
+     Surface Area:        1356.3136182212
+     Dielectric Energy:     -0.0136829970
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 53
+   prop. index: 1
+        SCF Energy:    -3191.4888588723
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 53
+   prop. index: 1
+        Van der Waals Correction:       -0.0066825535
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 54
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 54
+   prop. index: 1
+     Epsilon:                3.0000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  1424
+     Surface Area:        1365.5284375401
+     Dielectric Energy:     -0.0137110731
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 54
+   prop. index: 1
+        SCF Energy:    -3191.4891221967
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 54
+   prop. index: 1
+        Van der Waals Correction:       -0.0066166894
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 54
+   prop. index: 1
+       Filename                          : BEDT-TTF.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1797840092
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.167965  -1.550118   0.204237
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.179710   1.617904  -0.187806
+        Total Dipole moment:
+                   0          1          2    
+      0       0.011745   0.067786   0.016431
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    1
+    Coordinates:
+            S     -1.666820000000    2.939880000000   -0.266810000000
+            H     -1.004220000000    1.717190000000    0.235530000000
+            H     -2.637940000000    1.943530000000   -0.940350000000
+            S     -1.856920000000   -0.056810000000   -0.340090000000
+            H     -1.049950000000    1.049650000000    0.217110000000
+            H     -2.692130000000    1.085280000000   -0.961350000000
+            S      0.160830000000    1.976850000000    1.025570000000
+            S      0.062680000000    0.594530000000    0.990810000000
+            H      1.002390000000    1.244940000000    0.107880000000
+            H      1.461860000000    1.223230000000   -0.374530000000
+            S      2.275510000000    1.872130000000   -1.376050000000
+            S      2.399180000000    0.490180000000   -1.192910000000
+            H      3.460750000000    1.709980000000   -0.590900000000
+            H      3.518910000000    1.049160000000   -0.502850000000
+            S      4.124390000000    2.988020000000   -0.257520000000
+            S      4.371630000000    0.019460000000    0.127410000000
+            H      5.153240000000    2.081730000000    0.456670000000
+            H      5.223900000000    1.231470000000    0.566790000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    2
+    Coordinates:
+            S     -1.684443662371    2.982176595919   -0.253622812007
+            H     -1.037132918495    1.733219134856    0.243163058217
+            H     -2.668479053365    2.031391204921   -0.948327587501
+            S     -1.875788794984   -0.100384644430   -0.335771232503
+            H     -1.084085697585    1.033804166013    0.222294420115
+            H     -2.732320720603    1.000035026662   -0.975492230119
+            S      0.130403899048    2.003942278975    1.047645186729
+            S      0.030273479784    0.566051222372    1.008711485984
+            H      0.991486863669    1.245835497909    0.117323326387
+            H      1.472415489630    1.223312952115   -0.383260593600
+            S      2.304576511560    1.896251177179   -1.400427097899
+            S      2.431008687690    0.461472144517   -1.207569919686
+            H      3.492998807411    1.725580150635   -0.600271325628
+            H      3.553020712764    1.033332299851   -0.506493953309
+            S      4.141136061411    3.028401498349   -0.275032325591
+            S      4.391408323645   -0.023469948182    0.127474396821
+            H      5.183623654975    2.170788279845    0.454946431762
+            H      5.267188355817    1.148660962496    0.589120771827
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    3
+    Coordinates:
+            S     -1.713860473476    2.999401886161   -0.249201546698
+            H     -1.070716033514    1.745657194062    0.250259110572
+            H     -2.689435678384    2.057825266257   -0.948809186496
+            S     -1.904124565665   -0.116793510493   -0.338350232468
+            H     -1.118580168093    1.021933668657    0.227171307533
+            H     -2.755841942219    0.974376955697   -0.979218695637
+            S      0.098555320564    2.034692090826    1.070788628622
+            S     -0.004321414635    0.533892268972    1.027331888576
+            H      0.981800073428    1.246324394539    0.125786790730
+            H      1.481906141709    1.223064360410   -0.390987361617
+            S      2.335119226114    1.923801881531   -1.426364453775
+            S      2.465249573449    0.429111475227   -1.222702062653
+            H      3.526225940938    1.737583745104   -0.609270287882
+            H      3.587636191127    1.021417523779   -0.510794061775
+            S      4.170435255493    3.044972909032   -0.281330394897
+            S      4.420440897692   -0.038524866774    0.131476376123
+            H      5.204996009201    2.197207392818    0.452994093538
+            H      5.291805646269    1.124455364194    0.595630088205
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    4
+    Coordinates:
+            S     -1.741229779240    3.023471683932   -0.243568129427
+            H     -1.107090059263    1.760811728690    0.256838556469
+            H     -2.716314605535    2.109450996086   -0.952249330197
+            S     -1.934310289283   -0.140533626009   -0.336367437780
+            H     -1.156778334316    1.007729127888    0.232261246099
+            H     -2.789006483110    0.924470436785   -0.986651324839
+            S      0.066193842341    2.063368686468    1.093850284208
+            S     -0.040316360652    0.504112341417    1.047437372432
+            H      0.972441015356    1.245362167406    0.133869729801
+            H      1.491088789682    1.221448537539   -0.398157573005
+            S      2.366301007688    1.949519290162   -1.452093463464
+            S      2.501011717415    0.398839274647   -1.239521047719
+            H      3.562275733574    1.752389760357   -0.617955861282
+            H      3.626043075387    1.007478560071   -0.514961918095
+            S      4.197512522947    3.068652787233   -0.289540081994
+            S      4.451266222338   -0.061740951052    0.131991595751
+            H      5.231625211758    2.249022570493    0.451063048925
+            H      5.326576772911    1.076546627885    0.608164334117
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    5
+    Coordinates:
+            S     -1.772685130400    3.045651565287   -0.238877424761
+            H     -1.146432109141    1.776293029275    0.262764443373
+            H     -2.743728691264    2.159087990673   -0.954233781610
+            S     -1.968143399538   -0.162126867959   -0.335279778387
+            H     -1.197929582685    0.993327624938    0.236645465672
+            H     -2.822276708073    0.876364777611   -0.992345153341
+            S      0.032529525671    2.090639878979    1.117184992763
+            S     -0.077359605429    0.475593119412    1.067824081645
+            H      0.963817471012    1.244247297536    0.140907485966
+            H      1.499474217493    1.219758374993   -0.404326213471
+            S      2.398789217303    1.973994230619   -1.478034654831
+            S      2.537830514266    0.369607101645   -1.256852627047
+            H      3.601326409430    1.767717425584   -0.626077793750
+            H      3.667487926810    0.993405757772   -0.518441125167
+            S      4.228690587042    3.090556253975   -0.296681278725
+            S      4.485788177035   -0.082619015037    0.133079152256
+            H      5.258641763093    2.298792616379    0.447936248237
+            H      5.361469417375    1.030108838317    0.619217961179
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    6
+    Coordinates:
+            S     -1.807558824736    3.067004137372   -0.234048769646
+            H     -1.188447768520    1.792370273755    0.268129967036
+            H     -2.772853642767    2.210963194256   -0.955106461720
+            S     -2.004426248125   -0.182892943746   -0.334923459972
+            H     -1.241618130164    0.978317103479    0.240172135754
+            H     -2.857200480678    0.825797616450   -0.997546821403
+            S     -0.002027123023    2.115872680822    1.140748224166
+            S     -0.114576776829    0.448849036626    1.088132047834
+            H      0.956177254147    1.243400155396    0.146712936913
+            H      1.506859035179    1.218459250354   -0.409394070099
+            S      2.432243730364    1.996521464017   -1.504138880795
+            S      2.574859244509    0.342057419428   -1.274326370912
+            H      3.643089275273    1.783835578728   -0.633746211693
+            H      3.711539293859    0.978832976051   -0.521005237653
+            S      4.263197677203    3.111961863408   -0.304044363091
+            S      4.522646071202   -0.102835732211    0.134783855196
+            H      5.287298762415    2.351451248747    0.443643483963
+            H      5.398088650694    0.980434677066    0.630367996120
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    7
+    Coordinates:
+            S     -1.845374638547    3.087015272286   -0.229769511404
+            H     -1.232856464581    1.809021733399    0.272760337687
+            H     -2.803609238897    2.263791477315   -0.955198587936
+            S     -2.043534472428   -0.202179518726   -0.334856743619
+            H     -1.287767282508    0.962844974760    0.242933196685
+            H     -2.893913549926    0.774140416059   -1.002095769094
+            S     -0.037014969488    2.138777339206    1.164266457433
+            S     -0.151936227867    0.424222581039    1.108618336727
+            H      0.949694501910    1.242367219383    0.151205898377
+            H      1.513038309837    1.217110500507   -0.413112610285
+            S      2.466224150655    2.016872128311   -1.529983189169
+            S      2.612034670932    0.316522696706   -1.292165463281
+            H      3.687292305819    1.800624318156   -0.640748643000
+            H      3.758090326634    0.963986619575   -0.522771554541
+            S      4.300906027832    3.131920425177   -0.310635036217
+            S      4.562395898047   -0.121239492477    0.136639125159
+            H      5.317444301415    2.404276164790    0.438466749338
+            H      5.436176351161    0.930325144534    0.640857007141
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    8
+    Coordinates:
+            S     -1.885932259314    3.105267242123   -0.226333543711
+            H     -1.279493945051    1.826180236846    0.276593300861
+            H     -2.836434134757    2.315681549864   -0.954831290170
+            S     -2.085601638073   -0.219498722861   -0.334819827816
+            H     -1.336301727529    0.947060627000    0.245012795161
+            H     -2.932571125029    0.723463398944   -1.005931869456
+            S     -0.072151345376    2.159079414145    1.187595393440
+            S     -0.189372189817    0.402034421064    1.129403907987
+            H      0.944575087252    1.240904950485    0.154237363643
+            H      1.517799787680    1.215438117477   -0.415293536144
+            S      2.500425937121    2.034715680743   -1.555360552625
+            S      2.649285754970    0.293257787070   -1.310583824849
+            H      3.733758697430    1.818091973133   -0.647018613184
+            H      3.807112979267    0.948865434532   -0.523824012897
+            S      4.341212054966    3.150646207203   -0.316379823222
+            S      4.605065257004   -0.138032949553    0.138223459844
+            H      5.349481696374    2.456980697852    0.432873801917
+            H      5.476431112882    0.880263933932    0.650846871220
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    9
+    Coordinates:
+            S     -1.929136768521    3.121527789278   -0.223608132836
+            H     -1.328348653110    1.843791727026    0.279722643209
+            H     -2.871892486002    2.364789247457   -0.954372637947
+            S     -2.130576582332   -0.234690248473   -0.334657092696
+            H     -1.387230958984    0.930965190548    0.246523998190
+            H     -2.973844440442    0.675611991024   -1.009380744736
+            S     -0.107432060068    2.176613962484    1.210813321011
+            S     -0.226889553431    0.382405513297    1.150621287693
+            H      0.940946498611    1.239007907412    0.155739565761
+            H      1.521035356505    1.213474787979   -0.415854708386
+            S      2.534887157328    2.049928043364   -1.580310336034
+            S      2.686577228461    0.272440575457   -1.329631381611
+            H      3.782491590144    1.836111925927   -0.652619472911
+            H      3.858562064522    0.933576207211   -0.524252886104
+            S      4.384362200577    3.167425265976   -0.321187288808
+            S      4.650634883635   -0.152500670211    0.139494605223
+            H      5.384158182862    2.506493926225    0.427444561461
+            H      5.518986340245    0.833426858020    0.659924699522
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    10
+    Coordinates:
+            S     -1.975062779038    3.135961509121   -0.220582240168
+            H     -1.379314516244    1.861841401922    0.282370821924
+            H     -2.910886526174    2.410092046761   -0.953719334904
+            S     -2.177454374400   -0.248095311331   -0.334766591605
+            H     -1.440149959282    0.914463499089    0.247314419704
+            H     -3.018091593847    0.631186692609   -1.013225500426
+            S     -0.142824469278    2.191313178858    1.234136696912
+            S     -0.263804893536    0.365403758211    1.171799856423
+            H      0.938920298442    1.237353604173    0.155639077088
+            H      1.522692825693    1.211916464151   -0.414913406245
+            S      2.569606633099    2.062360263806   -1.605084398778
+            S      2.723248331849    0.254187110909   -1.348872850423
+            H      3.833393892380    1.854592238167   -0.657737594895
+            H      3.912006037907    0.917946658553   -0.523874785169
+            S      4.430438745727    3.182298769562   -0.326002889901
+            S      4.697979347820   -0.165122904158    0.140906924331
+            H      5.422601621577    2.552152726326    0.422356238722
+            H      5.563991377305    0.790548293271    0.668665557410
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    11
+    Coordinates:
+            S     -2.023133606073    3.148426553123   -0.217563942702
+            H     -1.432142620469    1.880371410582    0.284479346429
+            H     -2.953595813068    2.449714540961   -0.953538088321
+            S     -2.226155102453   -0.259437211261   -0.334617363122
+            H     -1.494953110103    0.897659257936    0.247537250058
+            H     -3.065348976053    0.592125207332   -1.017347533194
+            S     -0.178049388269    2.203210418645    1.257426617773
+            S     -0.300163381188    0.351175134719    1.193197348267
+            H      0.938319502185    1.235646950645    0.154197127010
+            H      1.522960844721    1.210405836285   -0.412660956891
+            S      2.604257487593    2.071992965989   -1.629469924313
+            S      2.759372236125    0.238508900992   -1.368562118002
+            H      3.886178070945    1.873531880721   -0.662298515310
+            H      3.967359781220    0.902063582855   -0.522854244531
+            S      4.478754005131    3.195041607314   -0.330467816927
+            S      4.747152151738   -0.175585131215    0.141882850691
+            H      5.464745936857    2.591803635269    0.418461088787
+            H      5.611731981162    0.753744459107    0.676608874298
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    12
+    Coordinates:
+            S     -2.072960058791    3.158839007052   -0.214357838259
+            H     -1.486643370072    1.899059153657    0.286096350795
+            H     -2.999898936956    2.483282493182   -0.953994150996
+            S     -2.276234091584   -0.268832428662   -0.334160343802
+            H     -1.551394998511    0.880506038091    0.247222108899
+            H     -3.115078273320    0.559702786083   -1.021577013520
+            S     -0.213149434858    2.212140471291    1.280651372081
+            S     -0.335941546209    0.339530111394    1.214735737507
+            H      0.938830343546    1.233821096159    0.151704282728
+            H      1.522209694291    1.208881060280   -0.409506600105
+            S      2.638881648949    2.078750522377   -1.653515800857
+            S      2.794935021725    0.225369172711   -1.388642777902
+            H      3.940632840558    1.892849747084   -0.666358172432
+            H      4.024395951245    0.885940646937   -0.521176964499
+            S      4.528591589451    3.206192751918   -0.335062158231
+            S      4.797543984126   -0.184527161319    0.142420310434
+            H      5.510459438693    2.626549246680    0.415624870624
+            H      5.662110197716    0.722345285086    0.684306787534
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    13
+    Coordinates:
+            S     -2.123223540576    3.168299653143   -0.211323095401
+            H     -1.542403400507    1.918067286125    0.287025023106
+            H     -3.048563085429    2.512962463845   -0.955374015099
+            S     -2.327523039829   -0.277118549442   -0.332731577643
+            H     -1.609378943937    0.863205226462    0.246499690493
+            H     -3.167109628653    0.531693187951   -1.025861715267
+            S     -0.247897479544    2.218281636262    1.303515745812
+            S     -0.371484908818    0.330581356921    1.236716177953
+            H      0.939925418464    1.231292097787    0.148710864673
+            H      1.520805062618    1.206666326084   -0.405727921775
+            S      2.673166654104    2.082682945363   -1.676815871242
+            S      2.830268484928    0.214717056740   -1.409421285412
+            H      3.996315461983    1.912469818020   -0.669700745121
+            H      4.083001218108    0.869728401890   -0.519059459991
+            S      4.578848906460    3.216164182465   -0.339241191303
+            S      4.849241402964   -0.192261887560    0.141836138757
+            H      5.558490568270    2.656914990204    0.414094260125
+            H      5.714810849395    0.696053807740    0.691268977335
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    14
+    Coordinates:
+            S     -2.173691752632    3.176974910022   -0.208400705611
+            H     -1.599272670746    1.937205589601    0.287286702488
+            H     -3.098648187376    2.538543593067   -0.957269156773
+            S     -2.379864868572   -0.284494801056   -0.330556070543
+            H     -1.668775878253    0.845870219582    0.245346676527
+            H     -3.220637419085    0.507971078037   -1.029940502183
+            S     -0.282472972642    2.221710077968    1.326004786928
+            S     -0.407017715435    0.324092391991    1.259001997656
+            H      0.941195003461    1.228280653416    0.145548616165
+            H      1.518972366994    1.204013978728   -0.401549442371
+            S      2.707457486019    2.084074619830   -1.699493551908
+            S      2.865481899848    0.206549768438   -1.430755058425
+            H      4.053205344748    1.932321463311   -0.672373620736
+            H      4.142998449702    0.853578232185   -0.516481248041
+            S      4.629513003468    3.225382417387   -0.343263203414
+            S      4.901797576677   -0.199206099670    0.140427656441
+            H      5.608250528106    2.683476995342    0.413394975813
+            H      5.768799805717    0.674054911823    0.697481147985
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    15
+    Coordinates:
+            S     -2.225598574637    3.185127983437   -0.204701094269
+            H     -1.657675060847    1.956337341556    0.287304460785
+            H     -3.150289402209    2.560130462202   -0.958805275258
+            S     -2.432351460508   -0.291538385870   -0.328674636314
+            H     -1.729309543727    0.828514202427    0.243599617650
+            H     -3.274441601938    0.487813303861   -1.034057199711
+            S     -0.317875879707    2.222850193843    1.348747939485
+            S     -0.442398681166    0.319984700148    1.281112396190
+            H      0.942487085319    1.225907675169    0.142309412499
+            H      1.517272630333    1.201950838723   -0.397514959709
+            S      2.742446005664    2.083168575389   -1.722033907653
+            S      2.900480366593    0.200670941421   -1.452042543008
+            H      4.111566338540    1.952239633830   -0.674704115803
+            H      4.204157470251    0.837436272668   -0.513217063405
+            S      4.681337083137    3.234275554070   -0.348094838090
+            S      4.954482486431   -0.206102408527    0.139182860967
+            H      5.659692228269    2.706890512358    0.412641405359
+            H      5.823308510203    0.654742603295    0.703357540285
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    16
+    Coordinates:
+            S     -2.277287195211    3.193927408642   -0.201316222283
+            H     -1.716715698685    1.975627427482    0.286608549077
+            H     -3.201970466658    2.580355470965   -0.960454913887
+            S     -2.485520017546   -0.299145179846   -0.326262962359
+            H     -1.790726090648    0.811110831061    0.241439302258
+            H     -3.328625615974    0.469461475029   -1.037654662033
+            S     -0.352949881378    2.221911320168    1.370991932780
+            S     -0.477632957795    0.317863185115    1.303375949243
+            H      0.943519767312    1.222958597732    0.139355084220
+            H      1.515754480532    1.199268260159   -0.393659111350
+            S      2.777136804965    2.080242668450   -1.743836383010
+            S      2.935268598021    0.196683241919   -1.473664154000
+            H      4.170534273412    1.972286504591   -0.676316719205
+            H      4.266181574893    0.821387760216   -0.509505256902
+            S      4.733095415302    3.243282794754   -0.352524092509
+            S      5.007922456742   -0.212956282652    0.137482194274
+            H      5.711338315477    2.727464659219    0.412288368572
+            H      5.877966237239    0.638669856994    0.708063097115
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    17
+    Coordinates:
+            S     -2.329349625757    3.203235010195   -0.198035986246
+            H     -1.776435644242    1.994879660208    0.285397328278
+            H     -3.253796626701    2.598361671749   -0.961842168262
+            S     -2.539181232133   -0.307323927614   -0.323933361237
+            H     -1.852797593677    0.793758276632    0.238822193615
+            H     -3.382682430691    0.453441864085   -1.040732663775
+            S     -0.387920153977    2.219314096908    1.393024892722
+            S     -0.512574504121    0.317336310737    1.325599951973
+            H      0.944071960098    1.219966690382    0.136900702746
+            H      1.514656733432    1.196520553844   -0.390231377529
+            S      2.811764933629    2.075753766417   -1.765200887368
+            S      2.969759165242    0.194324226184   -1.495366625032
+            H      4.230152780706    1.992544139309   -0.677423450595
+            H      4.328905660951    0.805416988039   -0.505285455730
+            S      4.784975062020    3.253441773977   -0.357157689346
+            S      5.061785003292   -0.220910925909    0.135856116611
+            H      5.762998617271    2.747336920225    0.411539039367
+            H      5.932957894659    0.623002904632    0.712479439809
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    18
+    Coordinates:
+            S     -2.381650606004    3.213974479204   -0.194588196379
+            H     -1.836585805177    2.014164648772    0.283892679909
+            H     -3.305445147599    2.615826972600   -0.962804744129
+            S     -2.593111837453   -0.316990649234   -0.321925404873
+            H     -1.915235222132    0.776397987328    0.235792981037
+            H     -3.436578381174    0.437463050357   -1.043563354931
+            S     -0.422815067429    2.215574661909    1.414967192359
+            S     -0.547167092211    0.317919654286    1.347654696877
+            H      0.944233104666    1.217234191694    0.134841162089
+            H      1.513855749716    1.194031081641   -0.387176130146
+            S      2.846396641383    2.070216243272   -1.786358721648
+            S      3.003803367635    0.193139367945   -1.516962502273
+            H      4.290220709175    2.012863193652   -0.678241075274
+            H      4.391882792921    0.789521376731   -0.500644514740
+            S      4.837268100713    3.264824934056   -0.362113590582
+            S      5.115721667330   -0.230036882527    0.134658261817
+            H      5.815133541606    2.766251110984    0.410559933685
+            H      5.987363484033    0.608024577331    0.716421327204
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    19
+    Coordinates:
+            S     -2.432849004010    3.226895460817   -0.191769449095
+            H     -1.896242142809    2.033696832890    0.281898189074
+            H     -3.356069655572    2.634391767159   -0.963866168813
+            S     -2.647676744890   -0.328268870724   -0.319534295773
+            H     -1.977731307767    0.759154194857    0.232672831536
+            H     -3.490716897807    0.420978591674   -1.046080508997
+            S     -0.456782934426    2.211203774156    1.436313641581
+            S     -0.581448155811    0.319092811484    1.369854417523
+            H      0.944391697525    1.213448416732    0.132947699710
+            H      1.513245918272    1.190436008530   -0.384304891626
+            S      2.880005089186    2.064020316994   -1.806730995872
+            S      3.037625830144    0.192395235807   -1.538807602337
+            H      4.349728178492    2.033420403036   -0.678447217241
+            H      4.454953365368    0.773650244712   -0.495913833148
+            S      4.888136425467    3.278321674738   -0.366519442905
+            S      5.170531028864   -0.241017803350    0.133160625053
+            H      5.865383093531    2.786434169542    0.409191594122
+            H      6.042806216245    0.592146770947    0.720345407209
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    20
+    Coordinates:
+            S     -2.483526045584    3.241700724504   -0.189398171693
+            H     -1.955441556273    2.053192234991    0.279562625134
+            H     -3.406423518004    2.654182906289   -0.965134011994
+            S     -2.702416429701   -0.341380731412   -0.316979756399
+            H     -2.039983043887    0.741784813885    0.229484480533
+            H     -3.544296223433    0.403870612036   -1.047920505069
+            S     -0.489890797535    2.206600148374    1.457191164021
+            S     -0.615144754272    0.320250285828    1.391936523587
+            H      0.944474775570    1.209194660417    0.131180343905
+            H      1.512691515359    1.186422172667   -0.381683830371
+            S      2.912860390434    2.057650672675   -1.826924977796
+            S      3.070909784871    0.191692200647   -1.560608506992
+            H      4.408768272426    2.054147610723   -0.678387009793
+            H      4.517750389386    0.757831604512   -0.491017857011
+            S      4.938377152764    3.293894884450   -0.370888361537
+            S      5.225432989898   -0.253638325113    0.131936687585
+            H      5.915606135269    2.807724096865    0.408236443283
+            H      6.097540962710    0.575279427663    0.723824720607
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    21
+    Coordinates:
+            S     -2.534251401891    3.258168066957   -0.186856666649
+            H     -2.014446611844    2.072732046992    0.277258884830
+            H     -3.456396794859    2.675136750763   -0.966123694066
+            S     -2.757098771529   -0.356377699042   -0.315071565088
+            H     -2.101902669358    0.724212100241    0.226135476005
+            H     -3.597700675571    0.386005031498   -1.050110104742
+            S     -0.522760143504    2.202098222671    1.478244060393
+            S     -0.648382694350    0.321021003576    1.413850341599
+            H      0.944151906974    1.205158738047    0.129964450865
+            H      1.512305226331    1.182562055784   -0.379262837352
+            S      2.945306693116    2.051401806417   -1.847042221391
+            S      3.103592487539    0.190687629719   -1.581979225212
+            H      4.467635049012    2.074937079832   -0.678326578833
+            H      4.580262160708    0.741823635191   -0.485910731312
+            S      4.988703134798    3.311263256805   -0.375716236695
+            S      5.280300805075   -0.268184731829    0.131313724483
+            H      5.965550115075    2.830687313112    0.406424758425
+            H      6.152422184278    0.557067693267    0.727618164741
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    22
+    Coordinates:
+            S     -2.584500803472    3.276554158792   -0.184327465559
+            H     -2.072833773163    2.092447949412    0.274875162197
+            H     -3.506112374915    2.698371816342   -0.967231405934
+            S     -2.811555164798   -0.373304103232   -0.313415930850
+            H     -2.163219592887    0.706452724942    0.222694617196
+            H     -3.650830546918    0.365947648896   -1.052253129898
+            S     -0.554757431816    2.197987809434    1.499148211275
+            S     -0.680772781357    0.321301012393    1.435524526556
+            H      0.943857688394    1.201206077776    0.128876942600
+            H      1.512202761915    1.178772694061   -0.377266259194
+            S      2.976734911424    2.045569900655   -1.866976760496
+            S      3.135423930296    0.189175620126   -1.603010101306
+            H      4.525747748566    2.095887596309   -0.678153792624
+            H      4.642116786457    0.725777080200   -0.480659989417
+            S      5.038506048136    3.330117501956   -0.380529968006
+            S      5.335078754918   -0.284096916188    0.131182504935
+            H      6.015131232826    2.854293121840    0.404441253545
+            H      6.207072606395    0.537938306284    0.731491584981
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    23
+    Coordinates:
+            S     -2.633783767796    3.296150064979   -0.182385761245
+            H     -2.130366672998    2.112343409668    0.272280869513
+            H     -3.554964171860    2.722075837684   -0.968650846592
+            S     -2.866278498931   -0.391002045921   -0.311555620017
+            H     -2.224116592044    0.688851718567    0.219399129869
+            H     -3.703950575966    0.345733865993   -1.054256934956
+            S     -0.585727805825    2.194473963136    1.519789144018
+            S     -0.712764875015    0.320947331148    1.457332402921
+            H      0.943483313996    1.196344573792    0.128073412999
+            H      1.512155121812    1.174008339920   -0.375363542248
+            S      3.007193280704    2.040244602926   -1.886746665543
+            S      3.166927563272    0.186936044847   -1.624221899261
+            H      4.582992778092    2.116861179372   -0.677753827718
+            H      4.703533654454    0.709802224817   -0.475590497693
+            S      5.087460976305    3.350034092816   -0.384661090955
+            S      5.390264170819   -0.300716927994    0.131001940789
+            H      6.063719373052    2.878119738883    0.402737599616
+            H      6.261512727927    0.519191985368    0.734982186504
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    24
+    Coordinates:
+            S     -2.682829222545    3.316564512918   -0.180213864236
+            H     -2.187362466811    2.132132800564    0.269737307937
+            H     -3.603254261204    2.746663586171   -0.969834621467
+            S     -2.920335944042   -0.409628673240   -0.310405479893
+            H     -2.284268613327    0.671125788376    0.215853797340
+            H     -3.756422168907    0.324637759453   -1.056811276596
+            S     -0.616095661037    2.191389264303    1.540676045378
+            S     -0.743920184172    0.319808664303    1.478912067204
+            H      0.942903990138    1.191845443596    0.127652965820
+            H      1.511877226012    1.169604524169   -0.373375574210
+            S      3.036853632036    2.035499641932   -1.906539973884
+            S      3.197224496619    0.184116211255   -1.644783631649
+            H      4.639690892881    2.137768919824   -0.677506755961
+            H      4.764116903053    0.693904268184   -0.470294033848
+            S      5.136482943189    3.370723818364   -0.389305400650
+            S      5.444851554402   -0.318025955037    0.131588446105
+            H      6.112351435803    2.902442604189    0.400446053357
+            H      6.315425447913    0.499826820675    0.738613929253
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    25
+    Coordinates:
+            S     -2.730362687240    3.337595463680   -0.178786148003
+            H     -2.243275063421    2.152074618887    0.266881339470
+            H     -3.650097096690    2.771550796673   -0.971419945502
+            S     -2.974793999039   -0.428460600661   -0.308936969954
+            H     -2.344033493441    0.653597082379    0.212495015054
+            H     -3.808845604108    0.303762463568   -1.059329157775
+            S     -0.645292707509    2.188687253044    1.561318153336
+            S     -0.774728073851    0.318073608564    1.500868869349
+            H      0.942274943805    1.186274451496    0.127524686274
+            H      1.511708241490    1.164082952821   -0.371499072684
+            S      3.065285265618    2.031054436474   -1.926030204800
+            S      3.227093750260    0.180538307085   -1.665482264985
+            H      4.695313730892    2.158788102744   -0.676946000378
+            H      4.824187792219    0.678028461095   -0.465214271750
+            S      5.184074620502    3.392401389294   -0.393307397041
+            S      5.499615353913   -0.335905683791    0.131788346988
+            H      6.159833188108    2.928287708287    0.398513447058
+            H      6.369331838492    0.479969188361    0.741971575343
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    26
+    Coordinates:
+            S     -2.776995438181    3.359022895604   -0.177807968635
+            H     -2.298191408192    2.171939562784    0.263967522758
+            H     -3.696211187638    2.796818419835   -0.973598960626
+            S     -3.029178576414   -0.447281543190   -0.307276920420
+            H     -2.403174900727    0.636194428633    0.209352988066
+            H     -3.860893894747    0.283176806767   -1.061522392474
+            S     -0.673454848499    2.186177771701    1.581859258663
+            S     -0.804916939663    0.315817613758    1.522960634834
+            H      0.941757934010    1.180012247880    0.127423794559
+            H      1.511548657096    1.157863045594   -0.369800368547
+            S      3.092770192327    2.026829395425   -1.945652721990
+            S      3.256508748643    0.176480982858   -1.686539387670
+            H      4.749917868398    2.179919475157   -0.676277568663
+            H      4.883648641347    0.662214302634   -0.460324498235
+            S      5.230370571844    3.414756211401   -0.396974782385
+            S      5.554192277567   -0.354202071623    0.131855652708
+            H      6.206307723083    2.955449242434    0.396930006306
+            H      6.423284579745    0.459211212348    0.745835711750
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    27
+    Coordinates:
+            S     -2.823643961088    3.380747991388   -0.176501263418
+            H     -2.352769844079    2.191581962803    0.261280500329
+            H     -3.742024815057    2.823138614226   -0.975864484472
+            S     -3.082883412224   -0.466519621179   -0.306176692798
+            H     -2.461670102252    0.618825399641    0.206149658701
+            H     -3.912434428908    0.261953383066   -1.064438199017
+            S     -0.701396137750    2.183755870503    1.602932191697
+            S     -0.834473608990    0.313269533457    1.545118133559
+            H      0.941275238153    1.174053228212    0.127536597646
+            H      1.511242983966    1.151879215629   -0.367979874546
+            S      3.119740413135    2.022604758734   -1.965404465072
+            S      3.285206053931    0.172042057352   -1.707321438420
+            H      4.804043300948    2.200785838293   -0.675813959797
+            H      4.942560028829    0.646439443232   -0.455372044992
+            S      5.276500143536    3.437107974638   -0.401052109719
+            S      5.608364906619   -0.372476207777    0.132327335699
+            H      6.252709243354    2.982727278729    0.395125143744
+            H      6.476943997876    0.438483279053    0.749864970876
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    28
+    Coordinates:
+            S     -2.869027896817    3.402862128929   -0.175513489627
+            H     -2.406399330561    2.211333807429    0.258477626810
+            H     -3.786957433082    2.850322090732   -0.978770690774
+            S     -3.136648528955   -0.485888493463   -0.304758313028
+            H     -2.519705983362    0.601564719478    0.203193029363
+            H     -3.963869543389    0.240261344133   -1.067403287298
+            S     -0.728351906159    2.181269775475    1.623945280296
+            S     -0.863582755838    0.310528066097    1.567581772741
+            H      0.940837373396    1.167340427607    0.127785204580
+            H      1.510915189636    1.145168335514   -0.366207093862
+            S      3.145925948124    2.018353399418   -1.985180736103
+            S      3.313481997751    0.167403403153   -1.728408526417
+            H      4.857263158567    2.221711239963   -0.675271608803
+            H      5.000934715481    0.630773309580   -0.450631043178
+            S      5.321618736732    3.459853030009   -0.404762002434
+            S      5.662370931134   -0.390835701211    0.132592981863
+            H      6.298211186461    3.010913196179    0.393831242053
+            H      6.530274140881    0.417465920978    0.753909653818
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    29
+    Coordinates:
+            S     -2.914928700022    3.425111997969   -0.173538134081
+            H     -2.459869223805    2.230925621929    0.256165350030
+            H     -3.832077759792    2.878298715739   -0.981344903776
+            S     -3.189223354162   -0.505718300795   -0.304115273941
+            H     -2.576871796419    0.584093281802    0.200047737929
+            H     -4.014595750396    0.217413080309   -1.071270409069
+            S     -0.755094205917    2.178669881052    1.645434642166
+            S     -0.891597047157    0.307747367548    1.589671486182
+            H      0.940519487493    1.161799381131    0.127976646311
+            H      1.510616590160    1.139624347977   -0.364699407980
+            S      3.171837969007    2.014041752307   -2.005445299134
+            S      3.340634744887    0.162795865424   -1.749125429122
+            H      4.910260929966    2.242477364708   -0.675165080580
+            H      5.058365002655    0.614985141149   -0.445646450856
+            S      5.367202778081    3.482703409699   -0.409393149990
+            S      5.715128579973   -0.409734113425    0.133765667760
+            H      6.343954596476    3.039815942351    0.391987133639
+            H      6.583027158973    0.395349263126    0.759104874512
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    30
+    Coordinates:
+            S     -2.959563320522    3.447485994138   -0.172079878739
+            H     -2.512333256396    2.250679290283    0.253679643877
+            H     -3.875937272559    2.906899713757   -0.984831513470
+            S     -3.241856051960   -0.525320974796   -0.302806499127
+            H     -2.633589018576    0.566644730927    0.197272215859
+            H     -4.065206561899    0.194683479417   -1.075004033245
+            S     -0.780700861178    2.175918280772    1.666678871404
+            S     -0.919078683994    0.304915705785    1.612043595446
+            H      0.940273254317    1.155304448881    0.128257614999
+            H      1.510345586320    1.133114415593   -0.363279018048
+            S      3.196738709098    2.009502018855   -2.025579031202
+            S      3.367465629189    0.158044274175   -1.770293072459
+            H      4.962192337752    2.263424908606   -0.674825409828
+            H      5.115373174431    0.599215997527   -0.440959576589
+            S      5.411318203583    3.505722231718   -0.413365440281
+            S      5.767927016921   -0.428458902620    0.134368014463
+            H      6.388408172544    3.069220816015    0.390884889763
+            H      6.635512942929    0.373403570967    0.764248627176
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    31
+    Coordinates:
+            S     -3.005212975547    3.469661738292   -0.169428801303
+            H     -2.565055068372    2.270290306844    0.251809130259
+            H     -3.920428787592    2.935729840760   -0.987664339658
+            S     -3.293552693219   -0.545284140573   -0.302332499957
+            H     -2.689671616001    0.548899644904    0.194352359303
+            H     -4.115160025411    0.171125445690   -1.079613027065
+            S     -0.806438297521    2.173083115409    1.688350488359
+            S     -0.945722487973    0.302074481202    1.633919171567
+            H      0.939972638237    1.150186361152    0.128558342242
+            H      1.510159001905    1.128001934715   -0.362131041569
+            S      3.222162286054    2.004943787213   -2.046494896294
+            S      3.393658090550    0.153500876584   -1.791193194792
+            H      5.014444642528    2.284303145995   -0.675127545066
+            H      5.171698761341    0.583268594235   -0.435949687795
+            S      5.456499913868    3.528691547656   -0.418574858591
+            S      5.819412525773   -0.447513159218    0.136081509519
+            H      6.433654079269    3.099098644599    0.389263607152
+            H      6.686870012112    0.350337834543    0.770585283689
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    32
+    Coordinates:
+            S     -3.050715423232    3.492025845323   -0.166426438924
+            H     -2.617317087110    2.289923499902    0.250179418703
+            H     -3.964388532182    2.964905601682   -0.990845756532
+            S     -3.344759044964   -0.565388309803   -0.302228877461
+            H     -2.745076931822    0.531174498527    0.191431972503
+            H     -4.164561515956    0.146943216183   -1.084774171582
+            S     -0.831568761555    2.170164255816    1.710189501215
+            S     -0.971509355411    0.299243475004    1.655647723823
+            H      0.939822485458    1.145570316810    0.128886750169
+            H      1.509876038850    1.123345249640   -0.360955849847
+            S      3.246657227835    2.000255467951   -2.067127653541
+            S      3.418831425532    0.148883193491   -1.811737540829
+            H      5.066122059881    2.305097332898   -0.675546076646
+            H      5.227404759348    0.567200216425   -0.430978655924
+            S      5.501327985045    3.551626731918   -0.424023439110
+            S      5.870530656125   -0.466783830754    0.137831456992
+            H      6.478449361574    3.129202264884    0.387529505407
+            H      6.738164652583    0.327010974103    0.777358131584
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    33
+    Coordinates:
+            S     -3.097026968496    3.514204155063   -0.162609396989
+            H     -2.669754582132    2.309297045382    0.249068276157
+            H     -4.008393800357    2.994186136911   -0.993821416224
+            S     -3.395258167920   -0.585608809392   -0.302773481692
+            H     -2.799979062194    0.513337057670    0.188406642950
+            H     -4.213360089269    0.122576034748   -1.091060715313
+            S     -0.856739121628    2.167189270921    1.732450118881
+            S     -0.996581558285    0.296378219190    1.677161670043
+            H      0.939649779049    1.141802186256    0.129378923386
+            H      1.509564540751    1.119485765003   -0.359753346684
+            S      3.270967236898    1.995469217869   -2.087862089081
+            S      3.443213013441    0.144242447040   -1.831757159696
+            H      5.117909867604    2.325659728138   -0.676365871700
+            H      5.282664438238    0.551119938583   -0.425809734492
+            S      5.546816938178    3.574393001729   -0.430278721874
+            S      5.921085839261   -0.486088693790    0.140218406994
+            H      6.523714294138    3.159336699394    0.385190268479
+            H      6.788797402723    0.303420599282    0.784627626854
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    34
+    Coordinates:
+            S     -3.143598954310    3.536290508385   -0.158234737552
+            H     -2.722205286949    2.328576376897    0.248354874144
+            H     -4.052191451489    3.023587985511   -0.997071254050
+            S     -3.445773977402   -0.605640736783   -0.303653001952
+            H     -2.854698229518    0.495563033140    0.185444747233
+            H     -4.261501095988    0.098182179934   -1.097984671439
+            S     -0.881675686489    2.164023672604    1.754980726559
+            S     -1.021258049063    0.293352486453    1.698623923900
+            H      0.939353542188    1.138209603633    0.130136557922
+            H      1.509316997280    1.115756552312   -0.358557602891
+            S      3.295095883236    1.990579179488   -2.108599948212
+            S      3.467116800271    0.139525008576   -1.851633850372
+            H      5.169566443036    2.346072260231   -0.677607364179
+            H      5.337636974564    0.535042162537   -0.420761484109
+            S      5.592518376628    3.597137637354   -0.437058305000
+            S      5.971526246754   -0.505399529394    0.142773746033
+            H      6.568926986004    3.189723453612    0.382692325229
+            H      6.839134481248    0.279818165510    0.792565318734
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    35
+    Coordinates:
+            S     -3.189913991746    3.558307651555   -0.153844666131
+            H     -2.774170912937    2.347587302252    0.247965437368
+            H     -4.094834863235    3.053212970174   -1.000916334576
+            S     -3.496287564279   -0.625386546448   -0.304424321745
+            H     -2.909061554149    0.477799516984    0.182805186594
+            H     -4.308964555871    0.074149776527   -1.105906168992
+            S     -0.906121215213    2.160702898206    1.777681262673
+            S     -1.045483777783    0.290121333298    1.720404156142
+            H      0.939017779913    1.134343632454    0.131170987546
+            H      1.508897859546    1.111689491561   -0.357127838328
+            S      3.318297190297    1.985523136355   -2.129087987189
+            S      3.490286505084    0.134591031048   -1.871228096674
+            H      5.220813769822    2.366317482970   -0.679142000742
+            H      5.392285511392    0.519099198451   -0.416041483431
+            S      5.638053092767    3.619666359265   -0.444074763276
+            S      6.022024879079   -0.524206568343    0.144979613654
+            H      6.613639205398    3.220064390788    0.380523248900
+            H      6.888812641915    0.256816942905    0.800673768205
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    36
+    Coordinates:
+            S     -3.236473940194    3.579625942251   -0.149060341783
+            H     -2.826042299310    2.366608900374    0.248098523526
+            H     -4.137276334177    3.082370935440   -1.005508800047
+            S     -3.547571475225   -0.644445183175   -0.304860557549
+            H     -2.963456167701    0.460409201469    0.180741552045
+            H     -4.356203144048    0.050372907768   -1.114140527038
+            S     -0.929947129165    2.157376010625    1.800107668699
+            S     -1.069270627212    0.286828906555    1.741953806986
+            H      0.938973192223    1.130350543998    0.131947663184
+            H      1.508625390315    1.107519107265   -0.355901094466
+            S      3.341227082146    1.980530903213   -2.149587048364
+            S      3.513254215156    0.129653598035   -1.890942282039
+            H      5.271972034664    2.386468233677   -0.681047984847
+            H      5.446865503553    0.503264100951   -0.411811198160
+            S      5.683790993829    3.641812057248   -0.451192568782
+            S      6.072876257761   -0.542747693294    0.146835674831
+            H      6.657802796160    3.250400406745    0.379036974737
+            H      6.938143651227    0.234001120854    0.809740539068
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    37
+    Coordinates:
+            S     -3.283829946652    3.600011962841   -0.144432147800
+            H     -2.877969857711    2.385258227218    0.248701734618
+            H     -4.180096915546    3.111917911883   -1.010658170064
+            S     -3.599995111588   -0.662195152991   -0.304775568115
+            H     -3.018058454302    0.443319236682    0.179448265853
+            H     -4.405044903743    0.026816206011   -1.123153349836
+            S     -0.953071233925    2.153911674588    1.822223656201
+            S     -1.092609144359    0.283414359260    1.763439209265
+            H      0.939291173225    1.125764917494    0.132659824740
+            H      1.508711012347    1.102731856707   -0.354748644246
+            S      3.364035594155    1.975287490136   -2.169911699697
+            S      3.536390756418    0.124488515612   -1.910649343115
+            H      5.323271023730    2.406236600295   -0.683457319145
+            H      5.501879097667    0.487744713949   -0.408295732806
+            S      5.730024343265    3.663419575756   -0.458427239157
+            S      6.124859085387   -0.560487247899    0.148068788390
+            H      6.701924658950    3.281281147976    0.378713559853
+            H      6.987578822680    0.211478004482    0.819664175062
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    38
+    Coordinates:
+            S     -3.333836847752    3.619472578516   -0.139371993485
+            H     -2.931084652742    2.403359281709    0.249916035696
+            H     -4.226696390584    3.141457271731   -1.015006292356
+            S     -3.653283500071   -0.678969265090   -0.305600313234
+            H     -3.073007359505    0.426525098727    0.178149826729
+            H     -4.455755325904    0.002703742233   -1.132092940895
+            S     -0.976592836500    2.150388255091    1.844011268872
+            S     -1.115692157615    0.280011225507    1.783922170952
+            H      0.939803305090    1.122168335494    0.132967480901
+            H      1.508900559549    1.098930845862   -0.353807505753
+            S      3.387400576755    1.969982779680   -2.190198875301
+            S      3.559392247238    0.119377363367   -1.929814609733
+            H      5.375976454335    2.425255937835   -0.686845341990
+            H      5.557518302349    0.472317528988   -0.405288441056
+            S      5.779157773701    3.683410608249   -0.466416041089
+            S      6.177952869384   -0.577085469753    0.149411828059
+            H      6.748546355474    3.312621472978    0.378911677691
+            H      7.038590626798    0.188472408876    0.831562065991
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    39
+    Coordinates:
+            S     -3.384812278675    3.638320033796   -0.136045512732
+            H     -2.984920674911    2.421145942057    0.250584705764
+            H     -4.275427930661    3.170425070442   -1.018962768732
+            S     -3.709685050948   -0.694720972462   -0.305953947517
+            H     -3.129607853425    0.410306930337    0.177333139786
+            H     -4.510666809994   -0.020163187614   -1.140161027228
+            S     -1.000552989064    2.146687871650    1.864620933861
+            S     -1.140266015841    0.276500336703    1.804064919796
+            H      0.939839148978    1.116916094392    0.133151088603
+            H      1.508682859079    1.093536634891   -0.352696442321
+            S      3.410663565834    1.964501440425   -2.209627611640
+            S      3.583057213657    0.114213643146   -1.948840264534
+            H      5.429362061245    2.444033007630   -0.690140961106
+            H      5.614581593292    0.457390309730   -0.403022354092
+            S      5.830011567767    3.702368801672   -0.472898683507
+            S      6.234348055473   -0.591769057983    0.150256155399
+            H      6.798525796293    3.345604502749    0.379727321977
+            H      7.094157741902    0.165102598439    0.843021308223
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    40
+    Coordinates:
+            S     -3.438678180909    3.656601615388   -0.132865408433
+            H     -3.040664961100    2.438512850036    0.251353281129
+            H     -4.327826964566    3.197216984048   -1.021907405562
+            S     -3.767877936881   -0.709923693683   -0.307542791291
+            H     -3.187612091427    0.394372300122    0.176088514719
+            H     -4.567312401196   -0.041479562301   -1.147309068629
+            S     -1.026250883693    2.142921191628    1.884874396515
+            S     -1.166160966254    0.272897576854    1.823356895297
+            H      0.939217597538    1.112298562577    0.133391355044
+            H      1.508175265179    1.088794787884   -0.351469648978
+            S      3.435000025495    1.959074171221   -2.228591657126
+            S      3.607296575107    0.109216220463   -1.967073861956
+            H      5.484505241130    2.462246594418   -0.693330531500
+            H      5.672672503713    0.442637840262   -0.400470015440
+            S      5.884208687040    3.720742184115   -0.478647196690
+            S      6.292629863623   -0.605800443217    0.152304869139
+            H      6.852892580305    3.377464120030    0.378881672217
+            H      7.153076046896    0.142606700155    0.853366601545
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    41
+    Coordinates:
+            S     -3.494912525799    3.674429072401   -0.129748439220
+            H     -3.098008366889    2.455478666774    0.252189456559
+            H     -4.382107556547    3.221394646854   -1.023252862890
+            S     -3.827103288162   -0.725048950762   -0.310226452040
+            H     -3.246582426391    0.378460513657    0.174404169317
+            H     -4.625103148599   -0.059908432792   -1.154434647233
+            S     -1.053498284985    2.139184151888    1.905007701514
+            S     -1.193037425601    0.269181471313    1.842132604184
+            H      0.938256254327    1.108312217625    0.133833795103
+            H      1.507576236631    1.084633972271   -0.349933532046
+            S      3.460531578953    1.953536427139   -2.247119527465
+            S      3.632386282045    0.104071835116   -1.984402409615
+            H      5.541105705211    2.480187847541   -0.696530106371
+            H      5.731869552041    0.428220471043   -0.397393948655
+            S      5.940624811586    3.738777896471   -0.484360863966
+            S      6.352611261981   -0.619362571440    0.155677955750
+            H      6.909608913149    3.405376703804    0.376607160319
+            H      7.213072427050    0.123474061098    0.861959946755
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    42
+    Coordinates:
+            S     -3.552119650598    3.692155592043   -0.127068524612
+            H     -3.156226610066    2.472387237790    0.252837793997
+            H     -4.437526432622    3.242306650824   -1.024397366865
+            S     -3.887733015960   -0.739662576034   -0.313264941802
+            H     -3.306608137093    0.362893090919    0.172550901968
+            H     -4.682468327135   -0.075040670410   -1.159981049203
+            S     -1.081651250778    2.135420097958    1.924797666192
+            S     -1.221007603327    0.265306997509    1.860602076058
+            H      0.937165130106    1.104015612441    0.134372115362
+            H      1.507134663733    1.080154674968   -0.348253425785
+            S      3.486980052770    1.948113361505   -2.265047650820
+            S      3.658627444630    0.098860452092   -2.001355100566
+            H      5.598968949773    2.497878070646   -0.699343985076
+            H      5.792398823038    0.414004223218   -0.394324428674
+            S      5.998374450640    3.756866237676   -0.489448644560
+            S      6.414278437414   -0.632670870763    0.158981359678
+            H      6.966131856731    3.427985774731    0.374065516198
+            H      7.272571218745    0.109426042887    0.868687688511
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    43
+    Coordinates:
+            S     -3.611303922450    3.709429274964   -0.124105979665
+            H     -3.215830043413    2.488845274662    0.253668073392
+            H     -4.493285072465    3.259679048699   -1.023967646113
+            S     -3.948766472793   -0.754451107258   -0.316993820622
+            H     -3.367229797005    0.347193309423    0.170408131830
+            H     -4.739420530159   -0.086588093499   -1.165797420168
+            S     -1.111054885705    2.131810883968    1.944473121069
+            S     -1.249586701914    0.261364053489    1.878585146819
+            H      0.936009705088    1.100688086575    0.134948432635
+            H      1.506652867903    1.076622185925   -0.346332283334
+            S      3.514524057761    1.942789520389   -2.282688581525
+            S      3.685501178969    0.093556681166   -2.017390723952
+            H      5.658275261964    2.515280294140   -0.702365083555
+            H      5.853747597714    0.400066446651   -0.390814187279
+            S      6.057989779051    3.774608552201   -0.495132846096
+            S      6.476748189257   -0.645568678710    0.163195775215
+            H      7.023613289614    3.445030004378    0.370760130636
+            H      7.330705498583    0.100044262838    0.873959760713
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    44
+    Coordinates:
+            S     -3.671713196022    3.726394624069   -0.121113725480
+            H     -3.276326850112    2.505122786270    0.254634051553
+            H     -4.550553924791    3.273964908454   -1.023740892198
+            S     -4.010915473047   -0.768496745110   -0.321309161581
+            H     -3.428641123164    0.331836444774    0.168099182019
+            H     -4.795666581065   -0.095178825545   -1.170264648178
+            S     -1.141276394737    2.128096735357    1.963979910349
+            S     -1.278970713893    0.257224765302    1.896175062736
+            H      0.934788716022    1.097434539171    0.135577955268
+            H      1.506284042562    1.073175770971   -0.344297828253
+            S      3.542845117162    1.937678363722   -2.299766520510
+            S      3.713146878539    0.088242678064   -2.033003829260
+            H      5.718673079806    2.532353138269   -0.705297105048
+            H      5.916057508215    0.386283145123   -0.387440745507
+            S      6.119028763746    3.791956275802   -0.500488638014
+            S      6.540613175326   -0.658078638338    0.167367640494
+            H      7.081261267978    3.457844653269    0.367013190053
+            H      7.388655707476    0.094545380374    0.878286101558
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    45
+    Coordinates:
+            S     -3.733821695944    3.742552198433   -0.118311356397
+            H     -3.337874422301    2.520954512552    0.255742872594
+            H     -4.608295972207    3.286491407109   -1.022152416912
+            S     -4.074071861783   -0.782252893952   -0.326019525071
+            H     -3.490696589435    0.316297992609    0.165848073898
+            H     -4.853341622690   -0.101352455682   -1.175323257113
+            S     -1.172443483686    2.124325001601    1.983252604089
+            S     -1.309003333998    0.253018722287    1.913523992945
+            H      0.933472611365    1.094358658638    0.136278693400
+            H      1.505957440934    1.069884797068   -0.342122123888
+            S      3.571936977618    1.932476916023   -2.316572204233
+            S      3.741433071265    0.082795790400   -2.047971436862
+            H      5.779991931796    2.549253893919   -0.708630749837
+            H      5.979043661380    0.372773602684   -0.384049885908
+            S      6.181651052415    3.808884324689   -0.506139551177
+            S      6.605756955672   -0.669695236263    0.172128976377
+            H      7.140896502461    3.468317957294    0.362795110654
+            H      7.446698777139    0.091314810590    0.882132183441
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    46
+    Coordinates:
+            S     -3.796873066054    3.758514796507   -0.115503903150
+            H     -3.399897609962    2.536812240087    0.257276411672
+            H     -4.668384871335    3.298181812551   -1.021664042596
+            S     -4.138977184400   -0.794985797114   -0.331176566143
+            H     -3.553527018608    0.301120347379    0.163825556322
+            H     -4.911410090248   -0.106756049512   -1.179285980588
+            S     -1.204087291799    2.120146591777    2.002383724257
+            S     -1.339787172695    0.248563828862    1.930642349357
+            H      0.932073820499    1.090830398004    0.137026813876
+            H      1.505734821304    1.066174867478   -0.339915370073
+            S      3.601536454977    1.927372090281   -2.332929378232
+            S      3.770347366821    0.077460395396   -2.062884678177
+            H      5.841925004849    2.565916748315   -0.712054509843
+            H      6.042697459884    0.359281407477   -0.381192379077
+            S      6.245561885301    3.825126587668   -0.511149263470
+            S      6.672445860510   -0.680572392210    0.176548064018
+            H      7.201541748359    3.478164320838    0.358190461987
+            H      7.506369882597    0.089047806218    0.886272689861
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    47
+    Coordinates:
+            S     -3.860558444371    3.773696610383   -0.113747626421
+            H     -3.462126858497    2.552271570591    0.258696115664
+            H     -4.728111630551    3.310128582269   -1.020138496832
+            S     -4.205610043410   -0.807091583930   -0.335893726190
+            H     -3.617006916074    0.285735671117    0.162456396119
+            H     -4.972500632655   -0.110644314618   -1.184220225526
+            S     -1.235925819211    2.115682626143    2.020945819029
+            S     -1.371182034159    0.243965392744    1.947881842170
+            H      0.930724508906    1.086135752258    0.137752063767
+            H      1.505478609148    1.061272954493   -0.337537919020
+            S      3.631237157012    1.921734655678   -2.348983445402
+            S      3.799933523600    0.071733622196   -2.077559626173
+            H      5.903828924870    2.582620912555   -0.715881067906
+            H      6.106953972186    0.346079427731   -0.378780562975
+            S      6.309892292155    3.841231998105   -0.516007343463
+            S      6.740910724808   -0.690173445188    0.180909929987
+            H      7.264058812413    3.489007660089    0.354079702168
+            H      7.567293853831    0.087011907383    0.890438171002
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    48
+    Coordinates:
+            S     -3.924482000851    3.788706606568   -0.111979034000
+            H     -3.524382730175    2.568095102994    0.260550160002
+            H     -4.790526957295    3.321817073442   -1.020309015695
+            S     -4.274342453249   -0.817817272835   -0.340886197985
+            H     -3.681260235456    0.270833158784    0.161495691754
+            H     -5.034290490702   -0.114345871094   -1.187526136530
+            S     -1.267910036480    2.110699282115    2.039269904620
+            S     -1.403356050527    0.239005355722    1.964891572933
+            H      0.929412294372    1.080346771998    0.138402196183
+            H      1.505388161999    1.055359815411   -0.335217130354
+            S      3.661582757184    1.916155256567   -2.364776661571
+            S      3.830385222134    0.066128982250   -2.092571600680
+            H      5.966078652521    2.599219180222   -0.719812103278
+            H      6.171821144987    0.332745569351   -0.377123226838
+            S      6.375155663931    3.856896135416   -0.520056377232
+            S      6.810875465487   -0.699208792213    0.184628036408
+            H      7.326951433050    3.500728331278    0.349988229663
+            H      7.630190159068    0.085035314025    0.895441692599
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    49
+    Coordinates:
+            S     -3.989721674891    3.802833427681   -0.110645885402
+            H     -3.587199514448    2.583289517462    0.262583981767
+            H     -4.852470634221    3.333783193395   -1.018536917333
+            S     -4.344085536674   -0.828308513250   -0.345808049399
+            H     -3.745811298672    0.255333884821    0.161026312526
+            H     -5.098918898797   -0.116534642354   -1.192233379651
+            S     -1.300456498398    2.105530582473    2.057157547864
+            S     -1.435882894423    0.233891516700    1.981753114016
+            H      0.928206771115    1.074311149045    0.138905712647
+            H      1.505372580031    1.049179185224   -0.332911959287
+            S      3.692609472366    1.910067337205   -2.380726081377
+            S      3.861541155295    0.060166939986   -2.107251390477
+            H      6.028681534047    2.615912691949   -0.724680762579
+            H      6.237147630481    0.319663469635   -0.375652099958
+            S      6.441397231564    3.872368264879   -0.524946267283
+            S      6.882059146019   -0.707228788447    0.188899543824
+            H      7.391719565965    3.512846108050    0.346312412851
+            H      7.693101863640    0.083294675548    0.901164167252
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    50
+    Coordinates:
+            S     -4.055678201709    3.817057468799   -0.108954811104
+            H     -3.650261246369    2.598655166147    0.265217866864
+            H     -4.917585039001    3.344813469281   -1.018181888389
+            S     -4.415322385896   -0.837648814483   -0.351305493353
+            H     -3.810879707659    0.240068330784    0.160743579405
+            H     -5.163352379459   -0.118355311186   -1.195242038727
+            S     -1.333401229393    2.099949386504    2.074898356906
+            S     -1.469014515974    0.228400279321    1.998169719094
+            H      0.927109922393    1.068002428221    0.139316197144
+            H      1.505580387720    1.042804240574   -0.330665179043
+            S      3.724548793375    1.904272366722   -2.396409121410
+            S      3.893533875712    0.054474051939   -2.121990449515
+            H      6.092093784972    2.632437741230   -0.729760430892
+            H      6.303077369660    0.306292866706   -0.374773219990
+            S      6.509127928948    3.887301070347   -0.529448904968
+            S      6.954258248402   -0.714979548828    0.192592540290
+            H      7.456764187509    3.524605815046    0.342272734397
+            H      7.756690206770    0.082248992877    0.907930543290
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    51
+    Coordinates:
+            S     -4.134343181677    3.827665377921   -0.104120408347
+            H     -3.724733696639    2.611272132077    0.271935507812
+            H     -4.992071986149    3.350813283345   -1.014155283637
+            S     -4.496711851372   -0.844341185789   -0.356782322649
+            H     -3.885383213932    0.225457986076    0.163484359862
+            H     -5.237005332244   -0.113797671755   -1.198424019443
+            S     -1.385532182575    2.093855746194    2.094812258187
+            S     -1.520224122616    0.222504385158    2.015725033799
+            H      0.925146976967    1.062473404688    0.138125457755
+            H      1.506144039872    1.037317217162   -0.328330847432
+            S      3.774957051046    1.898710972416   -2.415708126849
+            S      3.942803473447    0.049159511167   -2.139206945381
+            H      6.167656758810    2.647800394326   -0.739362082841
+            H      6.379060451724    0.293649645011   -0.375692024056
+            S      6.590698825274    3.900425562974   -0.538092969034
+            S      7.036270804852   -0.720482595609    0.197447167206
+            H      7.533675399120    3.532616476530    0.336755791622
+            H      7.826881786093    0.085299358107    0.915999453427
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    52
+    Coordinates:
+            S     -4.220153837275    3.836874433242   -0.097761735148
+            H     -3.804213902676    2.623406404190    0.280512018749
+            H     -5.073231667323    3.353784105815   -1.008143351030
+            S     -4.581870160130   -0.850816002131   -0.363950900183
+            H     -3.962570894547    0.209306099774    0.166800915467
+            H     -5.314660957073   -0.106686064497   -1.200859174852
+            S     -1.443794454919    2.087398150442    2.114503905673
+            S     -1.576224724516    0.216144744063    2.031923384074
+            H      0.923401151928    1.059174276299    0.137298568080
+            H      1.507553429196    1.034255376130   -0.324959875434
+            S      3.834130296192    1.894700902370   -2.434466167189
+            S      3.999391246771    0.045408535695   -2.154798053891
+            H      6.248493280712    2.662764584342   -0.751996816631
+            H      6.456937866199    0.280665984352   -0.377335877665
+            S      6.680158163935    3.912330509944   -0.549822750829
+            S      7.119716427164   -0.725487549363    0.203354309210
+            H      7.616877631150    3.537451345980    0.329007765518
+            H      7.897351105212    0.089724163354    0.925103836079
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    53
+    Coordinates:
+            S     -4.308777141594    3.845724350554   -0.090750908903
+            H     -3.883872569024    2.636071778349    0.289635800246
+            H     -5.158183349574    3.354721944016   -1.000296235238
+            S     -4.666600328034   -0.858061050683   -0.373573063055
+            H     -4.037728568060    0.190449937436    0.169188677375
+            H     -5.393373866912   -0.098188628076   -1.201483755078
+            S     -1.499125766860    2.080502577055    2.131106226162
+            S     -1.628215592234    0.209212189597    2.044214669354
+            H      0.922549968911    1.058297203133    0.135678511763
+            H      1.509905219188    1.033740636097   -0.322491613567
+            S      3.890824239233    1.892049069982   -2.450472619250
+            S      4.051985239298    0.042970249737   -2.166618078934
+            H      6.330425894575    2.679667441352   -0.765734645556
+            H      6.532634861244    0.265617591589   -0.377226018217
+            S      6.774022281276    3.925081225061   -0.563335196265
+            S      7.201127498187   -0.731921954490    0.211828944499
+            H      7.703673231100    3.541100670552    0.319045273077
+            H      7.966018749282    0.093364768740    0.935694031588
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    18        Geometry Index:    54
+    Coordinates:
+            S     -4.403397387384    3.853083376946   -0.081640808835
+            H     -3.965818323230    2.648431847200    0.300370197122
+            H     -5.248767002685    3.351865144154   -0.989439841368
+            S     -4.748786710597   -0.866636208244   -0.386648206997
+            H     -4.110229367754    0.168681973152    0.170303451912
+            H     -5.472034258473   -0.089024447993   -1.200884047808
+            S     -1.554480421618    2.074530158634    2.145532169471
+            S     -1.677143483444    0.203016514302    2.052514408527
+            H      0.923350741912    1.063144482974    0.132609761847
+            H      1.513701929472    1.038991662311   -0.321177036121
+            S      3.947397443429    1.891487946922   -2.464251513688
+            S      4.101449660965    0.042638110644   -2.174052482046
+            H      6.415093959063    2.697361452541   -0.781400428286
+            H      6.605626142069    0.248560773854   -0.375374274972
+            S      6.874908335203    3.937064144398   -0.579814898944
+            S      7.278999967219   -0.739984265202    0.223321679126
+            H      7.795779337787    3.541358791465    0.306508244899
+            H      8.031639438068    0.095828541940    0.947933626163

@@ -1,0 +1,18 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! wB97X-D3 OPT def2-TZVP def2/J CPCM
+%cpcm
+  epsilon 3
+end
+%pal
+ nprocs 4
+end 
+
+* xyz 0 1
+   O       -1.22489        1.76735       -0.09580
+   O        1.85803        2.11573       -0.10442
+   O        0.61837       -0.72703       -0.01634
+   W        0.41717        1.05198       -0.07344
+*
+
