@@ -1,0 +1,63 @@
+import arviz as az
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import pymc as pm
+import pymc_bart as pmb
+
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error, make_scorer
+from sklearn.model_selection import GridSearchCV, RepeatedKFold
+from sklearn.inspection import permutation_importance
+
+def naive_roc_auc_score(y_true, y_pred):
+  
+  y_true = y_true.to_numpy()
+  
+  num_same_sign = 0
+  num_pairs = 0
+  
+  for a in range(len(y_true)):
+    for b in range(len(y_true)):
+      if y_true[a] > y_true[b]:
+        num_pairs += 1
+        if y_pred[a] > y_pred[b]:
+          num_same_sign += 1
+        elif y_pred[a] == y_pred[b]:
+          num_same_sign += .5
+        
+  return num_same_sign / num_pairs
+
+from sklearn.metrics import make_scorer
+
+score = make_scorer(naive_roc_auc_score, greater_is_better=True)
+
+data = pd.read_csv('NF_Descriptors.csv')
+data = data.dropna()
+y = data['HOMO_calc']
+X = data.loc[:, ['Max Absolute Partial Charge', 'NO Count',
+         'Ring Count', 'Aliphatic Rings', 'Aromatic Carbocycles',
+         'H Count', 'Triple Bonds']]
+list_numerical = X.columns
+
+
+# split data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=10)
+
+from sklearn.model_selection import GridSearchCV, RepeatedKFold
+
+param_grid = {
+    "max_depth": [3,5,10,15,20,None],
+    "min_samples_split": [2,5,7,10],
+    "min_samples_leaf": [1,2,5]
+}
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+rf = RandomForestRegressor(random_state=0)
+grid_cv = GridSearchCV(rf, param_grid, scoring=score, n_jobs=-1, cv=cv).fit(X_train, y_train)
+
+print("Param for GS", grid_cv.best_params_)
+print("CV score for GS", grid_cv.best_score_)
+print("Train AUC ROC Score for GS: ", naive_roc_auc_score(y_train, grid_cv.predict(X_train)))
+print("Test AUC ROC Score for GS: ",naive_roc_auc_score(y_test, grid_cv.predict(X_test)))

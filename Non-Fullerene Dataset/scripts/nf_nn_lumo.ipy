@@ -1,0 +1,84 @@
+import numpy as np
+import tensorflow as tf
+from sklearn.model_selection import GridSearchCV, RepeatedKFold
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from scikeras.wrappers import KerasRegressor
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+
+def naive_roc_auc_score(y_true, y_pred):
+  
+  y_true = y_true.to_numpy()
+  
+  num_same_sign = 0
+  num_pairs = 0
+  
+  for a in range(len(y_true)):
+    for b in range(len(y_true)):
+      if y_true[a] > y_true[b]:
+        num_pairs += 1
+        if y_pred[a] > y_pred[b]:
+          num_same_sign += 1
+        elif y_pred[a] == y_pred[b]:
+          num_same_sign += .5
+        
+  return num_same_sign / num_pairs
+
+def create_model():
+    # create model
+    model = Sequential()
+    model.add(Dense(29, input_shape=(29,), activation='relu'))
+    model.add(Dense(12, activation='relu'))
+    model.add(Dense(12, activation='relu'))
+    model.add(Dense(12, activation='relu'))
+    model.add(Dense(12, activation='relu'))
+    model.add(Dense(12, activation='relu'))
+    model.add(Dense(50, activation='relu'))
+    model.add(Dense(20, activation='relu'))
+    model.add(Dense(10, activation='relu'))
+    model.add(Dense(1))
+    # Compile model
+    model.compile(loss='MeanSquaredError', optimizer='adam', metrics=['accuracy'])
+    return model
+
+data = pd.read_csv('NF_Descriptors.csv')
+data = data.dropna()
+y = data['LUMO_calc']
+X = data.loc[:, ['Molecular Weight', 'Heavy Atom Molecular Weight', 'Max Absolute Partial Charge', 'Max Partial Charge', 
+         'Min Abs Partial Charge', 'Min Partial Charge', 'Radical Electrons', 'Valence Electrons', 'NHOH Count', 'NO Count',
+         'H Acceptors', 'H Donors', 'Ring Count', 'Aliphatic Rings', 'Aromatic Rings', 'Saturated Rings', 'Aromatic Carbocycles',
+         'Aromatic Heterocycles', 'Heteroatoms', 'Rotatable Bonds', 'Saturated Carbocycles', 'Saturated Heterocycles', 'H Count',
+         'C Count', 'N Count', 'F Count', 'Halogen Count', 'Double Bonds', 'Triple Bonds']]
+list_numerical = X.columns
+
+
+# split data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=10)
+
+seed = 7
+tf.random.set_seed(seed)
+# load dataset
+# create model
+model = KerasRegressor(model=create_model, verbose=0)
+# define the grid search parameters
+batch_size = [10, 20, 40, 60, 80, 100]
+epochs = [10, 50, 100]
+param_grid = dict(batch_size=batch_size, epochs=epochs)
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+grid = GridSearchCV(estimator=model, param_grid=param_grid, n_jobs=-1, cv=cv)
+grid_cv = grid.fit(X_train, y_train)
+# summarize results
+print("Param for GS", grid_cv.best_params_)
+print("CV score for GS", grid_cv.best_score_)
+print("Train AUC ROC Score for GS: ", naive_roc_auc_score(y_train, grid_cv.predict(X_train)))
+print("Test AUC ROC Score for GS: ",naive_roc_auc_score(y_test, grid_cv.predict(X_test)))
+print('Train Mean Absolute Error:', abs(grid_cv.predict(X_train) - y_train), 'degrees.')
+print('Test Mean Absolute Error:', abs(grid_cv.predict(X_test) - y_test), 'degrees.')
+
+#view R-squared value
+print("Train R2: ", r2_score(y_train, grid_cv.predict(X_train)))
+print("Test R2: ", r2_score(y_test, grid_cv.predict(X_test)))
+print("Train MSE: ", mean_squared_error(y_train, grid_cv.predict(X_train)))
+print("Test MSE: ", mean_squared_error(y_test, grid_cv.predict(X_test)))

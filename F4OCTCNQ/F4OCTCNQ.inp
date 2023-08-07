@@ -6,7 +6,7 @@
   epsilon 3
 end
 %pal
- nprocs 4
+ nprocs 8
 end 
 
 * xyz 0 1

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "Havard Dataset"
+		},
+		{
+			"path": "Non-Fullerene Dataset"
+		},
+		{
+			"path": "Conjugated Polymers Dataset"
+		},
+		{
+			"path": "Dopant Dataset"
+		},
+		{
+			"path": "LMM"
+		}
+	]
+}
