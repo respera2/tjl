@@ -8,4 +8,4 @@
 module load openmpi/3.1.4
 module load anaconda/3-2020.07
 
-python nf_nn_lumo.ipy
+conda run -n AllDatasets python nf_nn_lumo.ipy
