@@ -1,0 +1,110 @@
+# import packages
+
+# general tools
+import numpy as np
+import pandas as pd
+import deepchem as dc
+import tensorflow as tf
+
+# RDkit
+from rdkit import Chem
+from rdkit.Chem.rdmolops import GetAdjacencyMatrix
+
+# Pytorch and Pytorch Geometric
+import torch
+from torch_geometric.data import Data
+from torch.utils.data import DataLoader
+
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.preprocessing import StandardScaler
+
+data = pd.read_csv('NF_Descriptors.csv')
+
+featurizer = dc.feat.CircularFingerprint(size=1024)
+
+
+
+dataset_file = 'NF_Descriptors.csv'
+
+loader = dc.data.CSVLoader(
+      tasks=["LUMO_calc"], feature_field="smiles",
+      featurizer=featurizer)
+dataset = loader.create_dataset(dataset_file)
+
+transformers = [
+  dc.trans.NormalizationTransformer(
+    transform_y=True, dataset=dataset)
+]
+
+splitter = dc.splits.splitters.RandomSplitter()
+trainset,testset = splitter.train_test_split( dataset )
+
+from deepchem.models.layers import GraphConv, GraphPool, GraphGather
+import tensorflow as tf
+import tensorflow.keras.layers as layers
+
+batch_size = 100
+
+class MyGraphConvModel(tf.keras.Model):
+
+  def __init__(self):
+    super(MyGraphConvModel, self).__init__()
+    self.gc1 = GraphConv(128, activation_fn=tf.nn.tanh)
+    self.batch_norm1 = layers.BatchNormalization()
+    self.gp1 = GraphPool()
+
+    self.gc2 = GraphConv(128, activation_fn=tf.nn.tanh)
+    self.batch_norm2 = layers.BatchNormalization()
+    self.gp2 = GraphPool()
+
+    self.dense1 = layers.Dense(256, activation=tf.nn.tanh)
+    self.batch_norm3 = layers.BatchNormalization()
+    self.readout = GraphGather(batch_size=batch_size, activation_fn=tf.nn.tanh)
+
+  def call(self, inputs):
+    gc1_output = self.gc1(inputs)
+    batch_norm1_output = self.batch_norm1(gc1_output)
+    gp1_output = self.gp1([batch_norm1_output] + inputs[1:])
+
+    gc2_output = self.gc2([gp1_output] + inputs[1:])
+    batch_norm2_output = self.batch_norm1(gc2_output)
+    gp2_output = self.gp2([batch_norm2_output] + inputs[1:])
+
+    dense1_output = self.dense1(gp2_output)
+    batch_norm3_output = self.batch_norm3(dense1_output)
+    readout_output = self.readout([batch_norm3_output] + inputs[1:])
+
+    return readout_output
+  
+  
+from deepchem.models.wandblogger import WandbLogger
+
+wandblogger = WandbLogger(project='deepchem_graphconv', entity='kshen', name="Custom")
+model = dc.models.KerasModel(MyGraphConvModel(), loss=dc.models.losses.L2Loss, wandb_logger=wandblogger)
+
+from deepchem.metrics import to_one_hot
+from deepchem.feat.mol_graphs import ConvMol
+import numpy as np
+
+# def data_generator(dataset, epochs=1):
+#   for ind, (X_b, y_b, w_b, ids_b) in enumerate(dataset.iterbatches(batch_size, epochs,
+#                                                                    deterministic=False, pad_batches=True)):
+#     multiConvMol = ConvMol.agglomerate_mols(X_b)
+#     inputs = [multiConvMol.get_atom_features(), multiConvMol.deg_slice, np.array(multiConvMol.membership)]
+#     for i in range(1, len(multiConvMol.get_deg_adjacency_lists())):
+#       inputs.append(multiConvMol.get_deg_adjacency_lists()[i])
+#     labels = [to_one_hot(y_b.flatten(), 2).reshape(-1, n_tasks, 2)]
+#     weights = [w_b]
+#     yield (inputs, labels, weights)
+
+# model.fit_generator(data_generator(trainset, epochs=50))
+wandblogger.finish()
+
+metric = dc.metrics.Metric(dc.metrics.mean_absolute_error)
+
+train_score2 = model.evaluate_generator(trainset, [metric], transformers)
+test_score2 = model.evaluate_generator(testset, [metric], transformers)
+
+print('Training set score:', train_score2)
+print('Test set score:', test_score2)
